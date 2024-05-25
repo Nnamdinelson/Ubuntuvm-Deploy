@@ -1,0 +1,29 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {"Enter name of Storage Account": {
+        "value": "storageubuntu042"
+    },
+    "Enter name of PublicIP": {
+        "value": "pubipubuntu"
+    },
+    "Enter name of Network Security Group": {
+        "value": "nsgubuntu"
+    },
+    "Enter name of Virtual Network": {
+        "value": "vnubuntu"
+    },
+    "Enter name of Virtual Network Subnet": {
+        "value": "vnsububuntu"
+    },
+    "Enter name of Network Interface Card": {
+        "value": "nicubuntu"
+    },
+    "Enter name of Virtual Machine": {
+        "value": "vmubuntu"
+    },
+    "Enter name of OSDisk": {
+        "value": "osdiskubuntu"
+    }
+    }
+}
